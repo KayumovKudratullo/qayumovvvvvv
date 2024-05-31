@@ -1,7 +1,4 @@
-# Hi I'm Kudrat
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=qayumovvvvvv&show_icons=true">
-
-<img alt= "Languages" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qayumovvvvvv&layout=compact">
+# 🖐 Hi I'm Kudrat
 
 <h2 align="left" >Languages and Tools:</h2>
 <p align="left"> 
@@ -14,3 +11,7 @@
   
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="55" height="55"/> </a></p>
+
+<img alt="my stats" align="left" width="47%" height = "190" src="https://github-readme-stats.vercel.app/api?username=qayumovvvvvv&show_icons=true"/>
+
+<img alt= "Languages" align="left" width="47%" height = "200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qayumovvvvvv&layout=compact"/>
