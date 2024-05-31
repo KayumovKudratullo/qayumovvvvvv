@@ -1,2 +1,4 @@
 # Hi I'm Kudrat
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qayumovvvvvv)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=qayumovvvvvv&show_icons=true">
+
+<img alt= "Languages" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qayumovvvvvv&layout=compact">
